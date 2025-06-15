@@ -31,7 +31,7 @@ The app automatically builds your training plan with:
 
 | About You | Fitness Goals | Workout Plan |
 |-----------|---------------|--------------|
-| ![About You](screenshots/Screenshot_20250615_223805.png) | ![Fitness Goals](screenshots/Screenshot_20250615_223818.png) | ![Workout Plan](screenshots/Screenshot_20250615_223828.png) |
+| ![About You](screenshots/Screenshot_20250615_223805.png) | ![Fitness Goals](screenshots/Screenshot_20250615_223818.png) | ![Workout Plan](screenshots/Screenshot_20250615_231434.png) |
 
 | Notification | Today Workout | Settings |
 |--------------|---------------|----------|
