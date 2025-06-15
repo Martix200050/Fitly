@@ -94,11 +94,14 @@ The videos were obtained from the following sources:
 - [Video by Pavel Danilyuk](https://www.pexels.com/video/a-man-doing-push-ups-4367576/)
 - [Video by Ketut Subiyanto](https://www.pexels.com/video/man-doing-tricep-dip-exercise-4804798/)
 - [Video by Tima Miroshnichenko](https://www.pexels.com/video/man-doing-incline-push-ups-6388865/)
+- [Video by Pavel Danilyuk](https://www.pexels.com/video/a-man-doing-push-ups-4367576/)
 - [Video by Aliaksei Masiukevich](https://www.pexels.com/video/dynamic-indoor-fitness-routine-for-women-31035747/)
 - [Video by Ron Lach](https://www.pexels.com/video/women-doing-aerobics-7928054/)
 - [Video by ShotPot](https://www.pexels.com/video/man-sport-athlete-exercise-4110015/)
 - [Video by Aliaksei Masiukevich](https://www.pexels.com/video/dynamic-plank-workout-for-core-strength-31035752/)
 - [Video by Yan Krukau](https://www.pexels.com/video/person-doing-tiptoe-8480443/)
+- [Video by Pavel Danilyuk](https://www.pexels.com/video/a-man-doing-push-ups-4367576/)
+- [Video by Aliaksei Masiukevich](https://www.pexels.com/video/dynamic-indoor-fitness-routine-for-women-31035747/)  
 
 If any content owners wish their media to be removed, please contact me.
 
