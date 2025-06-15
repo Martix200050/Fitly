@@ -95,7 +95,6 @@ The videos were obtained from the following sources:
 - [Video by Ketut Subiyanto](https://www.pexels.com/video/man-doing-tricep-dip-exercise-4804798/)
 - [Video by Tima Miroshnichenko](https://www.pexels.com/video/man-doing-incline-push-ups-6388865/)
 - [Video by Aliaksei Masiukevich](https://www.pexels.com/video/dynamic-indoor-fitness-routine-for-women-31035747/)
-- [Video by Gaurav Kumar](https://www.pexels.com/video/intense-calf-workout-in-gym-setting-32115656/)
 - [Video by Ron Lach](https://www.pexels.com/video/women-doing-aerobics-7928054/)
 - [Video by ShotPot](https://www.pexels.com/video/man-sport-athlete-exercise-4110015/)
 - [Video by Aliaksei Masiukevich](https://www.pexels.com/video/dynamic-plank-workout-for-core-strength-31035752/)
