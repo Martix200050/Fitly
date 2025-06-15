@@ -91,8 +91,8 @@ The app automatically builds your training plan with:
 Exercise video demonstrations used in this app are for educational and non-commercial purposes only.  
 The videos were obtained from the following sources:
 
-- [Video by Pavel Danilyuk]((https://www.pexels.com/video/a-man-doing-push-ups-4367576/))
-- [Video by Ketut Subiyanto]((https://www.pexels.com/video/man-doing-tricep-dip-exercise-4804798/))
+- [Video by Pavel Danilyuk](https://www.pexels.com/video/a-man-doing-push-ups-4367576/)
+- [Video by Ketut Subiyanto](https://www.pexels.com/video/man-doing-tricep-dip-exercise-4804798/)
 - [Video by Tima Miroshnichenko](https://www.pexels.com/video/man-doing-incline-push-ups-6388865/)
 - [Video by Aliaksei Masiukevich](https://www.pexels.com/video/dynamic-indoor-fitness-routine-for-women-31035747/)
 - [Video by Gaurav Kumar](https://www.pexels.com/video/intense-calf-workout-in-gym-setting-32115656/)
