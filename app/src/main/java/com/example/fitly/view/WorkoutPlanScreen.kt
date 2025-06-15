@@ -222,7 +222,7 @@ private fun ChipGroup(
                     text = when(item) {
                         "Upper Body" -> {stringResource(R.string.upper_body)}
                         "Lower Body" -> {stringResource(R.string.lower_body)}
-                        else -> {stringResource(R.string.lower_body)}
+                        else -> {stringResource(R.string.back)}
                     },
                     isSelected = item in selectedItems,
                     onClick = { onItemSelected(item) }
