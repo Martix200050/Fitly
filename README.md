@@ -27,6 +27,17 @@ The app automatically builds your training plan with:
 
 ---
 
+## Screenshots
+
+![About You](screenshots/Screenshot_20250615_223805.png)
+![Fitnes Goals](screenshots/screenshots/Screenshot_20250615_223818.png
+![Workout Plan ](screenshots/Screenshot_20250615_223828.png)
+![Notification](screenshots/Screenshot_20250615_223838.png)
+![Today Workout](screenshots/Screenshot_20250615_223848.png)
+![Settings](screenshots/Screenshot_20250615_223904.png)
+
+---
+
 ## ⚙️ Tech Stack
 
 - 🖥 **Android Studio (Kotlin + Jetpack Compose)**
