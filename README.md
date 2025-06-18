@@ -35,7 +35,7 @@ The app automatically builds your training plan with:
 
 | Notification | Today Workout | Settings | Workout |
 |--------------|---------------|----------|
-| ![Notification](screenshots/WorkoutNotification.png) | ![Today Workout](screenshots/SettingsScreen.png) | ![Settings](screenshots/Settings.png) | ![WorkOut](screenshots/workoutScreen.png)
+| ![Notification](screenshots/WorkoutNotification.png) | ![Today Workout](screenshots/SettingsScreen.png) | ![Settings](screenshots/Settings.png) | ![WorkOut](screenshots/workoutScreen.png) |
 ---
 
 ## ⚙️ Tech Stack
